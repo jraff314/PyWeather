@@ -1,0 +1,4 @@
+3 conclusions for PyWeather Homework:
+    a. The temperature is the hottest near the equator.
+    b. There doesn't seem to be any correlation between cloud coverage and latitude
+    c. The highest wind speeds occur near the north and south poles
